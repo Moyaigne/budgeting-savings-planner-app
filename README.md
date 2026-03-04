@@ -1,6 +1,6 @@
 
 ## 📱 Overview
-This is my Final Year Project (FYP), an iOS application built using Swift and Xcode to help users manage their finances.
+SmartSpend is a iOS mobile finance application developed for my Final Year Project to help usee manage their finances better. It has spending analysis on dashboard (home page) where users can see insights on their spendings
 
 ## 🎯 Objectives
 - Track daily expenses
