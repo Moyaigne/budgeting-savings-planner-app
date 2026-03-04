@@ -1,4 +1,4 @@
-# Budgeting & Savings Planner App
+<img width="431" height="768" alt="Screenshot 2026-03-03 at 12 22 25" src="https://github.com/user-attachments/assets/36b25228-d976-43b3-8c2c-de29a5d241ea" /># Budgeting & Savings Planner App
 
 ## 📱 Overview
 This is my Final Year Project (FYP), an iOS application built using Swift and Xcode to help users manage their finances.
@@ -22,7 +22,6 @@ This is my Final Year Project (FYP), an iOS application built using Swift and Xc
 - Track savings progress
 
 ## 📸 Screenshots
-
 
 
 Note: xCode is compatible for Mac users ONLY. If you are not a Mac user, you will not be able to download this project file. 
