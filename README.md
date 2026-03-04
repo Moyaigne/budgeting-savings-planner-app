@@ -11,9 +11,9 @@ This is my Final Year Project (FYP), an iOS application built using Swift and Xc
 
 ## 🛠️ Technologies Used
 - Swift
-- SwiftUI / UIKit (specify which you used)
+- SwiftUI 
 - Xcode
-- CoreData (if used for local storage)
+- Figma (for making prototype)
 
 ## ✨ Features
 - Add, edit, and delete expenses
@@ -23,3 +23,6 @@ This is my Final Year Project (FYP), an iOS application built using Swift and Xc
 
 ## 📸 Screenshots
 
+
+
+Note: xCode is compatible for Mac users ONLY. If you are not a Mac user, you will not be able to download this project file. 
